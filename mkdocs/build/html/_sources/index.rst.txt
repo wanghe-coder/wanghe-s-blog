@@ -9,8 +9,8 @@ Welcome to myblog1's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-
-  how_to_be_a_rich_man
+   
+   how_to_be_a_rich_man
 
 
 
